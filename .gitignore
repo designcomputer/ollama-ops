@@ -36,7 +36,4 @@ venv/
 ollama_ops.py
 
 # Promotion documentation (local only)
-PROMOTION_PLAN.md
-SOCIAL_MEDIA_TEMPLATES.md
-EXECUTION_CHECKLIST.md
-SUMMARY.md
+promotions/
