@@ -2,6 +2,8 @@
   <img src="logos/Ollama-Ops_color_logo900x620px.png" alt="Ollama Ops Logo" width="200">
 </div>
 
+v0.1.0a1 — Alpha prerelease
+
 A robust Python utility for managing, monitoring, auto-optimizing, and cleaning local Ollama models.
 
 **Disclaimer:** This project is powered by Ollama but is an independent utility. It is not created, affiliated with, or endorsed by the Ollama team.
@@ -41,7 +43,7 @@ Default models ship with conservative context limits (usually 4k or 8k tokens) r
 
 ---
 
-## FAQ: Why can't I just set the context size in my client settings?
+## FAQ: Can't I just set the context size in my client settings?
 
 Often, the answer is **no**. Here is why you need permanently "baked" model variants (e.g., `llama3-ctx32k`):
 
