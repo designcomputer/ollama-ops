@@ -1,5 +1,3 @@
-# Ollama Ops
-
 <div align="center">
   <img src="logos/Ollama-Ops_color_logo900x620px.png" alt="Ollama Ops Logo" width="200">
 </div>
